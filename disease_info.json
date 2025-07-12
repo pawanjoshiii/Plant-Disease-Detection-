@@ -1,0 +1,102 @@
+{
+  "Apple___Apple_scab": {
+    "cure": "Apply fungicides like Captan or Mancozeb. Remove infected leaves.",
+    "prevention": "Avoid overhead watering and prune infected areas regularly."
+  },
+  "Apple___Black_rot": {
+    "cure": "Remove mummified fruits and apply thiophanate-methyl fungicide.",
+    "prevention": "Ensure proper sanitation and use disease-free seeds."
+  },
+  "Apple___Cedar_apple_rust": {
+    "cure": "Spray protective fungicides like myclobutanil early in the season.",
+    "prevention": "Remove nearby juniper trees and choose resistant cultivars."
+  },
+  "Apple___healthy": {
+    "cure": "No treatment necessary.",
+    "prevention": "Continue regular monitoring and proper orchard management."
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "cure": "Use fungicides like azoxystrobin at early signs.",
+    "prevention": "Practice crop rotation and use resistant hybrids."
+  },
+  "Corn_(maize)___Common_rust_": {
+    "cure": "Apply fungicides like tebuconazole.",
+    "prevention": "Plant resistant varieties and ensure good air circulation."
+  },
+  "Corn_(maize)___healthy": {
+    "cure": "No treatment necessary.",
+    "prevention": "Maintain healthy soil and regular pest monitoring."
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "cure": "Use fungicides containing pyraclostrobin or propiconazole.",
+    "prevention": "Use crop rotation and plant-resistant corn varieties."
+  },
+  "Grape___Black_rot": {
+    "cure": "Remove and destroy infected plant material, apply fungicides like mancozeb.",
+    "prevention": "Ensure proper pruning and canopy management."
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "cure": "Prune infected wood and apply systemic fungicides.",
+    "prevention": "Avoid water stress and mechanical injuries."
+  },
+  "Grape___healthy": {
+    "cure": "No treatment required.",
+    "prevention": "Maintain regular irrigation and pruning practices."
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "cure": "Use copper-based fungicides.",
+    "prevention": "Improve air flow and avoid wet foliage."
+  },
+  "Potato___Early_blight": {
+    "cure": "Use fungicides such as chlorothalonil or mancozeb.",
+    "prevention": "Avoid overhead irrigation and remove crop debris."
+  },
+  "Potato___healthy": {
+    "cure": "No treatment required.",
+    "prevention": "Use certified seed and manage soil health."
+  },
+  "Potato___Late_blight": {
+    "cure": "Spray systemic fungicides like metalaxyl.",
+    "prevention": "Destroy infected tubers and avoid overcrowding plants."
+  },
+  "Tomato___Bacterial_spot": {
+    "cure": "Use copper-based bactericides.",
+    "prevention": "Avoid working with wet plants and rotate crops."
+  },
+  "Tomato___Early_blight": {
+    "cure": "Apply fungicides containing chlorothalonil or mancozeb.",
+    "prevention": "Mulch plants and water at the base to avoid splash."
+  },
+  "Tomato___healthy": {
+    "cure": "No treatment required.",
+    "prevention": "Monitor regularly and maintain garden hygiene."
+  },
+  "Tomato___Late_blight": {
+    "cure": "Spray systemic fungicides like metalaxyl.",
+    "prevention": "Remove infected leaves and avoid overhead watering."
+  },
+  "Tomato___Leaf_Mold": {
+    "cure": "Use fungicides like chlorothalonil.",
+    "prevention": "Ensure proper ventilation and humidity control."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "cure": "Apply fungicides with mancozeb or copper.",
+    "prevention": "Remove lower infected leaves and increase spacing."
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "cure": "Use miticides like abamectin or insecticidal soap.",
+    "prevention": "Increase humidity and remove infested leaves."
+  },
+  "Tomato___Target_Spot": {
+    "cure": "Apply fungicides like azoxystrobin.",
+    "prevention": "Avoid high humidity and rotate crops."
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "cure": "No known cure. Remove and destroy infected plants.",
+    "prevention": "Disinfect tools and avoid smoking near plants."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "cure": "Remove infected plants and control whiteflies.",
+    "prevention": "Use insect-proof nets and plant resistant varieties."
+  }
+}
