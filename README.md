@@ -54,6 +54,8 @@ The frontend is built using **Streamlit**, enabling users to:
 - View prediction probabilities from all 3 models.
 - Display the final disease diagnosis.
 - Get additional info from `disease_info.json`.
+- ![Home Page](home.png)
+- ![Predict Page](predict_page.png)
 
 ### 🔧 Run the App
 ```bash
