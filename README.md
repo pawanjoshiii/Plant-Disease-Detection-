@@ -8,7 +8,7 @@ A deep learning-based solution that detects plant diseases from leaf images usin
 
 - **`app.py`**: Main Streamlit frontend application where users can upload plant leaf images and view predictions from the ensemble model.
 
-- **`disease_info.json`**: JSON file containing metadata about each plant disease class, used to display information alongside predictions.
+- **`disease_info.json`**: JSONfile containing metadata about each plant disease class, used to display information alongside predictions.
 
 - **`my_modell.keras.png`**: Image visualizing the architecture of the custom CNN model used in the ensemble.
 
